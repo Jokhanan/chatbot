@@ -1,0 +1,53 @@
+I want to search a restaurant
+search restaurant
+search a restaurant
+search a restaurant with $cuisine cuisine
+search a restaurant in $region location
+search a restaurant at $region region
+find a restaurant in $region region
+find a restaurant at $region location
+search a restaurant with $cuisine cuisine at $region region
+search a restaurant with $cuisine cuisine at $region region in $type budget
+search a restaurant with $cuisine cuisine at $region region in $type expensive
+search a restaurant with $cuisine cuisine at $region region in $type type
+search a restaurant with $cuisine cuisine at $region region in $type cheap
+I want to search a dine
+search dine
+search a dine
+search a dine with $cuisine cuisine
+search a dine in $region location
+search a dine at $region region
+find a dine in $region region
+find a dine at $region location
+search a dine with $cuisine cuisine at $region region
+search a dine with $cuisine cuisine at $region region in $type budget
+search a dine with $cuisine cuisine at $region region in $type expensive
+search a dine with $cuisine cuisine at $region region in $type type
+search a dine with $cuisine cuisine at $region region in $type cheap
+I want to search a food court
+search food court
+search a food court
+search a food court with $cuisine cuisine
+search a food court in $region location
+search a food court at $region region
+find a food court in $region region
+find a food court at $region location
+search a food court with $cuisine cuisine at $region region
+search a food court with $cuisine cuisine at $region region in $type budget
+search a food court with $cuisine cuisine at $region region in $type expensive
+search a food court with $cuisine cuisine at $region region in $type type
+search a food court with $cuisine cuisine at $region region in $type cheap
+I want to search a dining room
+search dining room
+search a dining room
+search a dining room with $cuisine cuisine
+search a dining room in $region location
+search a dining room at $region region
+find a dining room in $region region
+find a dining room at $region location
+search a dining room with $cuisine cuisine at $region region
+search a dining room with $cuisine cuisine at $region region in $type budget
+search a dining room with $cuisine cuisine at $region region in $type expensive
+search a dining room with $cuisine cuisine at $region region in $type type
+search a dining room with $cuisine cuisine at $region region in $type cheap
+I am hungry
